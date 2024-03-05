@@ -1,0 +1,27 @@
+[remap]
+
+importer="3d_texture"
+type="CompressedTexture3D"
+uid="uid://bkdhmnbdm886h"
+path.bptc="res://.godot/imported/HarshLUT.png-8ff8ab1a8ea7cf183c61ce1a13e983ef.bptc.ctex3d"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://HarshLUT.png"
+dest_files=["res://.godot/imported/HarshLUT.png-8ff8ab1a8ea7cf183c61ce1a13e983ef.bptc.ctex3d"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=true
+compress/lossy_quality=0.0
+compress/hdr_compression=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+slices/horizontal=33
+slices/vertical=1

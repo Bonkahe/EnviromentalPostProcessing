@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709663527
+BubbleGumLUT.png::CompressedTexture3D::6045266895710963707::1709394412::1709429524::1::::<><>::
+CottonCandyEnvironment.tres::Environment::8521143400683536284::1709660948::0::1::::<><>::uid://csemwr51q1vxj::::res://BubbleGumLUT.png
+default_env.tres::Environment::8812514364578701278::1709571318::0::1::::<><>::
+ExtremeLUT.png::CompressedTexture3D::1423004527655367060::1709395265::1709396439::1::::<><>::
+GrittyEnvironment.tres::Environment::3356595112334701969::1709660948::0::1::::<><>::uid://ujkxahymo62s::::res://ExtremeLUT.png<>uid://ix4b3qn1jblt::::res://LensDirtTexture.png
+HarshLUT.png::CompressedTexture3D::3094949386313863057::1709663660::1709663670::1::::<><>::
+icon.png::CompressedTexture2D::479621099632178939::1709235762::1709235769::1::::<><>::
+LensDirtTexture.png::CompressedTexture2D::610755512028201493::1709237173::1709237176::1::::<><>::
+NeutralLUT.png::CompressedTexture3D::4864256015881286844::1709394425::1709396416::1::::<><>::
+NoRedLUT.png::CompressedTexture3D::6505785686478413354::1709429443::1709429470::1::::<><>::
+SepiaLUT.png::CompressedTexture3D::1892693811645983710::1709580879::1709582664::1::::<><>::
+TestScene.tscn::PackedScene::3044638356609565312::1709660948::0::1::::<><>::uid://bn27vpstuh00d::::res://GrittyEnvironment.tres
+::res://addons/::1709235762

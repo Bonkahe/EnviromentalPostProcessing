@@ -1,0 +1,26 @@
+[remap]
+
+importer="3d_texture"
+type="CompressedTexture3D"
+uid="uid://cyxpls0q8dka1"
+path="res://.godot/imported/NoRedLUT.png-2075fd361cde80d36f1f5c0cd1955ec7.ctex3d"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://NoRedLUT.png"
+dest_files=["res://.godot/imported/NoRedLUT.png-2075fd361cde80d36f1f5c0cd1955ec7.ctex3d"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+slices/horizontal=33
+slices/vertical=1

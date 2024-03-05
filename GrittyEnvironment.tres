@@ -1,0 +1,41 @@
+[gd_resource type="Environment" load_steps=5 format=3 uid="uid://bn27vpstuh00d"]
+
+[ext_resource type="CompressedTexture3D" uid="uid://ujkxahymo62s" path="res://ExtremeLUT.png" id="1_h2fds"]
+[ext_resource type="Texture2D" uid="uid://ix4b3qn1jblt" path="res://LensDirtTexture.png" id="2_87qbt"]
+
+[sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_qpjbp"]
+
+[sub_resource type="Sky" id="Sky_vtxca"]
+sky_material = SubResource("ProceduralSkyMaterial_qpjbp")
+
+[resource]
+background_mode = 2
+background_color = Color(0.521569, 0.670588, 0.792157, 1)
+sky = SubResource("Sky_vtxca")
+tonemap_mode = 3
+ssr_enabled = true
+ssr_max_steps = 128
+ssr_depth_tolerance = 0.51
+ssao_enabled = true
+ssao_intensity = 5.54
+sdfgi_enabled = true
+sdfgi_use_occlusion = true
+sdfgi_bounce_feedback = 1.44
+sdfgi_cascades = 6
+sdfgi_min_cell_size = 0.1
+sdfgi_y_scale = 0
+glow_enabled = true
+glow_normalized = true
+glow_intensity = 4.33
+glow_strength = 0.88
+glow_bloom = 0.05
+glow_blend_mode = 1
+glow_map = ExtResource("2_87qbt")
+fog_enabled = true
+fog_light_color = Color(0.517647, 0.552941, 0.619608, 1)
+fog_density = 0.001
+fog_sky_affect = 0.147
+volumetric_fog_enabled = true
+volumetric_fog_albedo = Color(0.870588, 0.796078, 0.772549, 1)
+adjustment_enabled = true
+adjustment_color_correction = ExtResource("1_h2fds")
